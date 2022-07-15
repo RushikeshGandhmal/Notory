@@ -1,2 +1,2 @@
 # Notory
-Notary: A coding project for search through text in javascript
+Notary: A coding project to search through text in javascript. 
